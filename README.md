@@ -13,16 +13,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-🎯 Full Stack Developer Intern at **Tecsity Edtech Pvt Ltd**  
-📍 Erode, Tamil Nadu, India  
-💻 Passionate about backend development using Node.js  
-🚀 Love building scalable, responsive web applications  
-📚 Continuous learner and problem solver  
-
----
-
 ## 🚀 Technology Stack
 
 <div align="center">
