@@ -1,16 +1,137 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+  Hey, I'm <strong>Abishek S</strong> 👨‍💻
+</h1>
 
-<!--
-**ABISHEK-S-17/ABISHEK-S-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?duration=2500&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Building+Modern+Web+Applications;Clean+Code+%26+Performance+Focused" 
+  />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+🎯 Full Stack Developer Intern at **Tecsity Edtech Pvt Ltd**  
+📍 Erode, Tamil Nadu, India  
+💻 Passionate about backend development using Node.js  
+🚀 Love building scalable, responsive web applications  
+📚 Continuous learner and problem solver  
+
+---
+
+## 🚀 Technology Stack
+
+<div align="center">
+
+### 🎨 Frontend  
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### ⚙️ Backend  
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/>
+</p>
+
+### 🗄 Database  
+<p>
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+</p>
+
+### ☁️ Tools & Platforms  
+<p>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/VS%20Code-1f92e8?style=for-the-badge&logo=visual-studio-code"/>
+</p>
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🔹 Full Stack Developer Intern  
+**Tecsity Edtech Private Limited** — Sep 2025 – Present  
+- Built full-stack applications using React, Node.js, Express, and MySQL  
+- Designed responsive UI with Tailwind CSS  
+- Developed REST APIs and integrated databases  
+- Bug fixing, performance optimization, and feature enhancements  
+
+### 🔹 Web Designing Intern  
+**Brainery Spot Technology**  
+- Created responsive websites using HTML, CSS, JavaScript  
+- Improved UI layouts and cross-browser compatibility  
+
+### 🔹 Salesforce Administration & Development Training  
+**Besant Technologies**  
+- Worked with workflows, validation rules, reports  
+- Hands-on with Apex and Lightning components  
+
+---
+
+## 📂 Projects
+
+### 📸 Capture Photography Portfolio
+- Responsive photography portfolio website  
+- Dynamic content rendering  
+- REST API integration with MySQL  
+- Optimized for performance and mobile devices  
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL  
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech Information Technology** – Velalar College of Engineering & Technology (2019–2023)
+
+---
+
+## 🧠 Skills
+
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js, Express, Tailwind  
+- **Database:** MySQL  
+- **Tools:** GitHub, Git, Postman, VS Code  
+- **Soft Skills:** Teamwork, Time Management, Adaptability  
+- **Languages Spoken:** Tamil, English, Telugu  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: abishekssfdc@gmail.com  
+🔗 LinkedIn: (Add your LinkedIn link)  
+🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+🌍 Portfolio: (Add your website link)
+
