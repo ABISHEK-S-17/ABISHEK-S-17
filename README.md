@@ -48,6 +48,21 @@
 </div>
 
 ---
+## 📫 Connect With Me
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:abishekssfdc@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" title="Email" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/abishek-s-607329287">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" title="LinkedIn" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/ABISHEK-S-17">
+    <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" />
+  </a>
+</p>
 
 
 ## 🐍 Contribution Snake
@@ -58,10 +73,5 @@
 
 ---
 
-## 🌐 Connect With Me
 
-📧 Email: abishekssfdc@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link)  
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-🌍 Portfolio: (Add your website link)
 
