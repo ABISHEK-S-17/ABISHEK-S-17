@@ -58,10 +58,6 @@
   <a href="https://www.linkedin.com/in/abishek-s-607329287">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" title="LinkedIn" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/ABISHEK-S-17">
-    <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" />
-  </a>
 </p>
 
 
